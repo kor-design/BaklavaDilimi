@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\BaklavaDilimi\BaklaVa\BaklaVa\bin\Debug\BaklaVa.exe.config
+C:\Users\Windows10\Documents\GitHub\BaklavaDilimi\BaklaVa\BaklaVa\bin\Debug\BaklaVa.exe
+C:\Users\Windows10\Documents\GitHub\BaklavaDilimi\BaklaVa\BaklaVa\bin\Debug\BaklaVa.pdb
+C:\Users\Windows10\Documents\GitHub\BaklavaDilimi\BaklaVa\BaklaVa\obj\Debug\BaklaVa.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\BaklavaDilimi\BaklaVa\BaklaVa\obj\Debug\BaklaVa.exe
+C:\Users\Windows10\Documents\GitHub\BaklavaDilimi\BaklaVa\BaklaVa\obj\Debug\BaklaVa.pdb
